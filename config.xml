@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <nextSite>
+        <SITE_URL>https://www.next.co.il/en</SITE_URL>
+        <EMAIL>ddd@gmail.com</EMAIL>
+        <PASSWORD>123456</PASSWORD>
+    </nextSite>
+</config>
